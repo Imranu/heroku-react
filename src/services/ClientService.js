@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const CLIENT_REST_API_BASE_URL = "http://localhost:8080/api/v1/clients";
+const CLIENT_REST_API_BASE_URL = "https://heroku-spring-react-project.herokuapp.com/api/v1/clients";
 
 class ClientService {
 
